@@ -1,0 +1,22 @@
+{
+  "name": "rabbitmqwithnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfreita/rabbitMQWithNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfreita/rabbitMQWithNode/issues"
+  },
+  "homepage": "https://github.com/Alfreita/rabbitMQWithNode#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
